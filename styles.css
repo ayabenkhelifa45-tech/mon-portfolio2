@@ -1,4 +1,8 @@
 
 body { background-color: lightblue; }
- h1 { color: red; }
+ feature-style-conflict
+h1 { color: purple; }  /* blue + red */
+
+
+ main
  h2 { color: green; }
